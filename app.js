@@ -4,9 +4,6 @@ tempDescriptionEl = document.querySelector(".temp-description")
 tempIconEl = document.querySelector(".icon")
 
 
-// API = 22dedd9077baa0306792bfff9b36f1b6
-
-
 window.addEventListener("load", () => {
     let lat
     let long
